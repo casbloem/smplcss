@@ -1,0 +1,6 @@
+// Text classes (.txt-*)
+
+  .txt-nowrap, .txt-oneline {
+      white-space: nowrap;
+  }
+  
